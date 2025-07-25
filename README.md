@@ -45,3 +45,10 @@ Want to go back in time? This page shows the history of changes made to a docume
 
 6. Settings or Profile Page
 This is where you control your account. Change your name, profile picture, password, or notification preferences. You can also connect your Google Drive or manage your subscription here.
+
+
+
+*OUTPUT:*
+
+<img width="1918" height="976" alt="Image" src="https://github.com/user-attachments/assets/99264f4a-a1a7-49a0-a346-9daa45d7671f" />
+<img width="1916" height="923" alt="Image" src="https://github.com/user-attachments/assets/5c2c213f-1fc3-464f-b1d5-90207f4363af" />
